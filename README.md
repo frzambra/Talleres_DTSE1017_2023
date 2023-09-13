@@ -1,6 +1,6 @@
 # Talleres DTSE1017 2023 💻
 
-![](https://www.uma.es/media/fotos/image_37483.jpeg){width="50%"}
+![](https://www.uma.es/media/fotos/image_37483.jpeg){width=50%}
 
 ## Descripción ✍️
 
