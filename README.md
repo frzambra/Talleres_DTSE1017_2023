@@ -1,6 +1,8 @@
 # Talleres DTSE1017 2023 💻
 
-<img src="https://www.uma.es/media/fotos/image_37483.jpeg" width="50%">
+<img src="https://www.uma.es/media/fotos/image_37483.jpeg" width="25%">
+
+Escuela de Data Science
 
 ## Descripción ✍️
 
